@@ -1,0 +1,22 @@
+.t-h {
+  line-height: 18px;
+  color: red;
+  border-right: medium none;
+  font: 16px Google-Oswald, Arial;
+  text-transform: uppercase;
+  width: 86px;
+}
+
+.text-none {
+  line-height: 18px;
+  color: #555;
+  text-decoration: none;
+}
+.img {
+  float: left;
+  width: 554px;
+  height: 100%;
+}
+.second-container {
+  margin-top: 60px;
+}
